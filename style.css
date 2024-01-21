@@ -140,8 +140,9 @@ aside {
 }
 
 aside h3 {
-  font-size: 25px;
+  font-size: 26px;
   text-align: center;
+  margin-bottom: 40px;
   color: #343a40;
 }
 
